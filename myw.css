@@ -2,13 +2,13 @@
 		width: 20px;
 }
 .imp-itemm {
-		color: rgb(12, 12, 90);
+		color: red;
 		font-size:25px;
 }
 .imp-itemm2 {
-		color: rgb(24, 173, 24);
-		border: black 5px solid;
+		color: yellow;
+		border: green 2px solid;
 }
 .largee {
-		font-size: 125px;
+		font-size: 115px;
 }
