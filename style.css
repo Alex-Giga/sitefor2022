@@ -34,9 +34,9 @@ header {
 }
 
 main {
-  width: var(--content);
-  max-width: calc(100vw - (2 * var(--gutter)));
-  margin: 670px 30px 0px 0px;
+  margin: 670px 70px 50px 50px;
+  padding-right: 0 0 0 0;
+  margin-left: 20%;
   
 }
 
@@ -70,8 +70,8 @@ h1 {
 	position: absolute;
   width: 1px;
   height: 1px;
-  padding: 0;
-  margin: -1px;
+  padding: 30 30 30 30;
+  margin: 0 auto;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
@@ -123,7 +123,7 @@ p:first-line {
 section p {
   z-index: 2;
   background: hsl(210 17% 98% / 0.65);
-  padding: 1rem;
+  padding: 15px;
   color: var(--text-1);
   backdrop-filter: blur(4px);
   font-size: 1rem;
